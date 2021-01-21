@@ -11,9 +11,9 @@ Currently, I´m living in the US and I'm looking for a job in the field of Data 
 ### 📫 How to reach me:
 
 
-**LinkedIn**: http://www.linkedin.com/in/jsrb
+**LinkedIn:** http://www.linkedin.com/in/jsrb
 
-**Email** js.roa15@gmail.com
+**Email:** js.roa15@gmail.com
 
 
 
