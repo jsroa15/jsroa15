@@ -8,8 +8,6 @@ Currently, I´m living in the US and I'm looking for a job in the field of Data 
 
 :bulb: **Legally authorized to work in the US**
 
-🌱 I’m currently learning how to implement end-to-end Machine Learning projects
-
 ### 📫 How to reach me:
 
 
