@@ -15,6 +15,8 @@ Currently, I´m living in the US and I'm looking for a job in the field of Data 
 
 **Email:** js.roa15@gmail.com
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsroa15&show_icons=true)](https://github.com/jsroa15/github-readme-stats)
+
 
 
 
