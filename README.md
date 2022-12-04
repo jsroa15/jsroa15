@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!!!
 
-I've been working in Data Science and Analytis for the last 8 years and I love making processes digital and data driven. I have a Master's degree in Industrial Engineering with major in applied statistics and operations research. 
+I've been working in Data Science and Analytics for the last 8 years and I love making processes digital and data-driven. I have a Master's degree in Industrial Engineering with major in applied statistics and operations research. 
  
 
 :bulb: **Legally authorized to work in the US**
