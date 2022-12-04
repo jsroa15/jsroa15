@@ -2,9 +2,8 @@
 
 Welcome to my GitHub profile!!!
 
-I have a Master's degree in Industrial Engineering with major in applied statistics from Universidad de los Andes (Colombia). In June 2021 I got certified as Professional Data Scientist by DataCamp.
-
-Currently, I´m living in the US and I'm looking for a job in the field of Data Science like Data Analyst or Data Scientist. 
+I've been working in Data Science and Analytis for the last 8 years and I love making processes digital and data driven. I have a Master's degree in Industrial Engineering with major in applied statistics and operations research. 
+ 
 
 :bulb: **Legally authorized to work in the US**
 
